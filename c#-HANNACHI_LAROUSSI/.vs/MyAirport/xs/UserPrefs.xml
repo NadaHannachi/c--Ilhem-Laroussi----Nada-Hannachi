@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{DE8AE2EC-0B2D-4BE0-AA32-41CA3966A62B}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyAirport.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyAirportGraphQl/Schema.cs">
+    <Files>
+      <File FileName="MyAirport.ConsoleApp/App.config" Line="1" Column="1" />
+      <File FileName="MyAirport.ConsoleApp/Program.cs" />
+      <File FileName="MyAirport.EF/Bagage.cs" />
+      <File FileName="MyAirport.EF/Factory.cs" />
+      <File FileName="MyAirport.EF/MyAirport.EF.xml" />
+      <File FileName="MyAirport.EF/MyAirportContext.cs" />
+      <File FileName="MyAirport.EF/Vol.cs" />
+      <File FileName="MyAirportGraphQl/Program.cs" />
+      <File FileName="MyAirportGraphQl/Query.cs" />
+      <File FileName="MyAirportGraphQl/Schema.cs" Line="18" Column="1" />
+      <File FileName="MyAirportGraphQl/Startup.cs" />
+      <File FileName="MyAirportRazor2/appsettings.json" />
+      <File FileName="MyAirportRazor2/Program.cs" />
+      <File FileName="MyAirportRazor2/Startup.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyAirport" expanded="True">
+            <Node name="MyAirport.ConsoleApp" expanded="True" />
+            <Node name="MyAirport.EF" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="MyAirportGraphQl" expanded="True">
+              <Node name="Schema.cs" selected="True" />
+            </Node>
+            <Node name="MyAirportRazor" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

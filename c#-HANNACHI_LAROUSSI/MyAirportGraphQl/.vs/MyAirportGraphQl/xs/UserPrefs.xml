@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{263BC262-BA07-4052-885E-6C0A3E81AA95}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyAirportGraphQl PreferredExecutionTarget="/Users/user/Desktop/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GraphQLType/BagageType.cs">
+    <Files>
+      <File FileName="GraphQLType/BagageType.cs" Line="19" Column="30" />
+      <File FileName="GraphQLType/VolType.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyAirportGraphQl" expanded="True">
+            <Node name="MyAirportGraphQl" expanded="True">
+              <Node name="GraphQLType" expanded="True">
+                <Node name="BagageType.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
